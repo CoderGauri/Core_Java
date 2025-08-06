@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Hello_world">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/springboot/Hello_world/out/artifacts/Hello_world_jar/Hello_world.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
