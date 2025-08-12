@@ -34,7 +34,17 @@ class Hello {
     //Type casting and conversion
     byte b1 = 127;
     System.out.println(b1);
-    
+    int a1 = 367;
+    b1 = (byte) a1;
+    System.out.println(a1);
+    float f1 = 5.6f;
+    int t = (int)f1;
+    System.out.println(t);
+  //system promotion
+  byte val1 = 20;
+  byte val2 = 30;
+  int result1 = val1 * val2;
+  System.out.println(result1);
 
     }
 
